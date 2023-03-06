@@ -73,7 +73,7 @@ section .buscador .buscador-containt {
     margin: 0 auto;
     height: 45px;
     border-radius: 28px;
-    border: 1px solid gray;
+    border: 1px solid #eff0f2;
     
 }
 section .buscador .buscador-containt span {
@@ -87,6 +87,7 @@ section .buscador .buscador-containt span {
 section .buscador .buscador-containt input {
     width: 480px;
     border: transparent;
+    border-style: none;
 }
 
 section .botones {
